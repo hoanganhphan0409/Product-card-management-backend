@@ -1,4 +1,4 @@
-package com.example.backend_product_card_management;
+package Main;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

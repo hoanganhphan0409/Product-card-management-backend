@@ -1,4 +1,4 @@
-package com.example.backend_product_card_management;
+package Main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
