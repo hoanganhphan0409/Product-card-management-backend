@@ -37,4 +37,5 @@ public class AuthController {
         String message = userService.forgotPassword(request.getEmail());
         return ResponseEntity.ok(ApiResponse.success(message, null));
     }
+
 }
